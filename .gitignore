@@ -1,0 +1,4 @@
+.env
+.cache-DUMMY_USER4
+*.log
+*.json
